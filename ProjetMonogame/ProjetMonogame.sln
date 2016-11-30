@@ -5,6 +5,14 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projet1", "Projet1\Projet1.csproj", "{615DB0E3-E98F-4704-8648-32AE512109E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZeBackUp", "ZeBackUp\ZeBackUp.csproj", "{8615C924-C871-4A10-A694-74316184DCBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZeBackUp2", "ZeBackUp2\ZeBackUp2.csproj", "{436AE886-5B95-4BD2-847D-13740872C6A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project2", "Project2\Project2.csproj", "{91F5E34B-27E4-405F-AF0D-E3128BBF8316}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpriteSheet test", "SpriteSheet test\SpriteSheet test.csproj", "{4B63203F-9C85-44FE-A2F0-53781D1DF2D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -15,6 +23,22 @@ Global
 		{615DB0E3-E98F-4704-8648-32AE512109E6}.Debug|x86.Build.0 = Debug|x86
 		{615DB0E3-E98F-4704-8648-32AE512109E6}.Release|x86.ActiveCfg = Release|x86
 		{615DB0E3-E98F-4704-8648-32AE512109E6}.Release|x86.Build.0 = Release|x86
+		{8615C924-C871-4A10-A694-74316184DCBA}.Debug|x86.ActiveCfg = Debug|x86
+		{8615C924-C871-4A10-A694-74316184DCBA}.Debug|x86.Build.0 = Debug|x86
+		{8615C924-C871-4A10-A694-74316184DCBA}.Release|x86.ActiveCfg = Release|x86
+		{8615C924-C871-4A10-A694-74316184DCBA}.Release|x86.Build.0 = Release|x86
+		{436AE886-5B95-4BD2-847D-13740872C6A0}.Debug|x86.ActiveCfg = Debug|x86
+		{436AE886-5B95-4BD2-847D-13740872C6A0}.Debug|x86.Build.0 = Debug|x86
+		{436AE886-5B95-4BD2-847D-13740872C6A0}.Release|x86.ActiveCfg = Release|x86
+		{436AE886-5B95-4BD2-847D-13740872C6A0}.Release|x86.Build.0 = Release|x86
+		{91F5E34B-27E4-405F-AF0D-E3128BBF8316}.Debug|x86.ActiveCfg = Debug|x86
+		{91F5E34B-27E4-405F-AF0D-E3128BBF8316}.Debug|x86.Build.0 = Debug|x86
+		{91F5E34B-27E4-405F-AF0D-E3128BBF8316}.Release|x86.ActiveCfg = Release|x86
+		{91F5E34B-27E4-405F-AF0D-E3128BBF8316}.Release|x86.Build.0 = Release|x86
+		{4B63203F-9C85-44FE-A2F0-53781D1DF2D3}.Debug|x86.ActiveCfg = Debug|x86
+		{4B63203F-9C85-44FE-A2F0-53781D1DF2D3}.Debug|x86.Build.0 = Debug|x86
+		{4B63203F-9C85-44FE-A2F0-53781D1DF2D3}.Release|x86.ActiveCfg = Release|x86
+		{4B63203F-9C85-44FE-A2F0-53781D1DF2D3}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
