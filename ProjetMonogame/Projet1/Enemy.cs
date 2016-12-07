@@ -48,7 +48,7 @@ namespace Projet1
         }
 
 
-        //Hitbox du héro
+        //Hitbox de l'enemy
         public Rectangle rectColision = new Rectangle();
         public Rectangle hitbox(int nbP)
         {
