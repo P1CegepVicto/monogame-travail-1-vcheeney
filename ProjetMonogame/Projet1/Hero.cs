@@ -25,7 +25,7 @@ namespace Projet1
         public float angle;
 
         public int shootdelay = 0;
-        public int delay = 1 * 5;
+        public int delay = 1 * 3;
 
         public int nbbullet = 0;
         public int test = 0;
